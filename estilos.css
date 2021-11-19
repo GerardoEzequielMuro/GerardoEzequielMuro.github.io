@@ -1,0 +1,64 @@
+h1 {
+    color: green;
+}
+
+body {
+    background-image: url(imagenes/estudio_carpincho.jpg);
+    background-repeat: repeat;
+}
+
+.articulo_titulo {
+    border: solid 2px honeydew;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: honeydew;
+    background-color: rgb(57, 94, 57)
+}
+
+.articulo_contenido {
+    color: honeydew;
+    margin: 20px;
+    text-align: justify;
+    border: honeydew solid 2px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(57, 94, 57)
+}    
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 460px;
+    
+}
+
+.carousel-inner{
+ height: 460px;
+}
+
+#portada {
+    padding: 90px;
+    background-image: url(imagenes/estudio_carpincho.jpg) ;
+
+}
+
+#pie {
+    color: honeydew;
+    
+   
+    text-align: center;
+    border: honeydew solid 2px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(57, 94, 57);
+    object-position: bottom;
+    
+}
+
+#descripcion {
+    -webkit-text-stroke: thin;
+}
+
+
+
